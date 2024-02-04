@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name":" The Art City",
+        "price": 200,
+        "image": "book-1.png"
+    },
+    {
+        "id": 2,
+        "name":" Thanks In Everything",
+        "price": 250,
+        "image": "book-2.png"
+    },
+    {
+        "id": 3,
+        "name":" Your Name",
+        "price": 290,
+        "image": "book-3.png"
+    },
+    {
+        "id": 4,
+        "name":" Your Title Goes Here",
+        "price": 200,
+        "image": "book-4.png"
+    },
+    {
+        "id": 5,
+        "name":" Music Rock",
+        "price": 300,
+        "image": "book-5.png"
+    },
+    {
+        "id": 6,
+        "name":" Sample Text",
+        "price": 200,
+        "image": "book-6.png"
+    },
+    {
+        "id": 7,
+        "name":" Place Your Text Here",
+        "price": 200,
+        "image": "book7.png"
+    },
+    {
+        "id": 8,
+        "name":" Black History Month",
+        "price": 200,
+        "image": "book-8.png"
+    },
+    {
+        "id": 9,
+        "name":" Love",
+        "price": 200,
+        "image": "book-9.png" 
+    },
+    {
+        "id": 10,
+        "name":" Retro",
+        "price": 200,
+        "image": "book-10.png"
+    }
+
+]
